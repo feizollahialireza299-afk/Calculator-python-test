@@ -1,2 +1,2 @@
 # Calculator-python-test
-This project is a simple calculator for practicing in Python.
+In this article, you will learn how to implement a simple console calculator using Python functions.
